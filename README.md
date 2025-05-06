@@ -6,23 +6,24 @@ To implement Erosion and Dilation using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
-<br>
-
+Import required libraries (OpenCV, NumPy) and load the image in grayscale
 
 ### Step2:
-<br>
+Define a structuring element (kernel) for morphological operations.
 
 ### Step3:
-<br>
+Apply erosion using cv2.erode() on the image with the defined kernel.
 
 ### Step4:
-<br>
+Apply dilation using cv2.dilate() on the image with the same kernel.
 
 ### Step5:
-<br>
-
+Display and compare the original, eroded, and dilated images.
  
 ## Program:
+
+### Developed by: Hezron Belix
+### Reg NO: 212223230078
 
 ``` Python
 
